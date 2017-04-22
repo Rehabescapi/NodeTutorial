@@ -2,6 +2,7 @@
 import jsdom from 'jsdom';
 import fs from 'fs';
 import {expect} from 'chai';
+
 describe('Our first test', () => {
 it('should pass', () => {
     expect(true).to.equal(true);
