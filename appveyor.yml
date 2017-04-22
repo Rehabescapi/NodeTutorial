@@ -19,5 +19,4 @@ environment:
 
 
     - npm test
-
-    build: off
+build: off
