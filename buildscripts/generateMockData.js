@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
 import  jsf from 'json-schema-faker';
-import {schema} from './mockDataSchema.js';
+import {schema} from '../buildscripts/mockDataSchema';
 import fs from 'fs';
 import chalk from 'chalk';
 
